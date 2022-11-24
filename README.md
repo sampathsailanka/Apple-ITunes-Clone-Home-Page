@@ -1,2 +1,2 @@
 # Apple-ITunes-Clone-Home-Page
-Apple - ITunes - Clone - Home - Page (Front - End)
+Apple ITunes Clone Home Page (Front - End)
