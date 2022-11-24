@@ -1051,6 +1051,8 @@ align-self: start;
         padding-left: 0;
         padding-right: 0;
         padding-bottom: 10px;
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 5px;
     }
 
     /* FOOTER */
